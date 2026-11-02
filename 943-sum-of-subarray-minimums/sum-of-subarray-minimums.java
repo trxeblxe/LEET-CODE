@@ -7,7 +7,7 @@ class Solution {
 
         Stack<Integer> st = new Stack<>();
 
-        int[] left = new int[n];
+        int[] left = new int[n];  
         int[] right = new int[n];
 
    
