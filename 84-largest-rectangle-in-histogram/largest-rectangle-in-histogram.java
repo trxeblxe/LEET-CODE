@@ -1,4 +1,3 @@
-// Java
 class Solution {
     public int largestRectangleArea(int[] heights) {
         int n = heights.length;
